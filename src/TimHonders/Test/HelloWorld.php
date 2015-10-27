@@ -3,7 +3,7 @@
 namespace TimHonder\Test;
 
 
-class HalloWorld {
+class HelloWorld {
     
     public function say() {
         
