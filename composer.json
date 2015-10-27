@@ -2,7 +2,7 @@
 	"name": "timhonders/test",
 	"description": "test",
 	"autoload": {
-		"psr-0" : {
+		"psr-4" : {
 			"TimHonders\\Test" : "src"
 		}
 	}
