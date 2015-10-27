@@ -3,7 +3,7 @@
 	"description": "test",
 	"autoload": {
 		"psr-0" : {
-			"TimHonders\Test" : "src"
+			"TimHonders\\Test" : "src"
 		}
 	}
 }
