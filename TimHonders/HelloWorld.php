@@ -1,6 +1,6 @@
 <?php
 
-namespace TimHonders\Test;
+namespace TimHonders;
 
 
 class HelloWorld {
