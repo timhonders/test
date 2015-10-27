@@ -1,8 +1,9 @@
 {
-  "name": "timhonders/test",
-  "description": "test",
-  "autoload": {
-	"psr-0" : {
-	    "TimHonders\\Test" : "src"
+	"name": "timhonders/test",
+	"description": "test",
+	"autoload": {
+		"psr-0" : {
+			"TimHonders\Test" : "src"
+		}
 	}
 }
